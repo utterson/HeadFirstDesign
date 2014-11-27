@@ -1,0 +1,1 @@
+Scratch code repo for tutorial exercises and experimentation while going through Head First Design Patterns.
